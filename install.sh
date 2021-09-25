@@ -1,6 +1,3 @@
-#!/bin/bash
-# Clipboard V 1.0
-# coded by: github.com/HACKGM/clipboard
 
 trap 'printf "\n";stop' 2
 
